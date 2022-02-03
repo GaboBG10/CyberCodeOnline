@@ -559,11 +559,11 @@
  	 	},
  	 	"healing1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Pain Away",
+ 	 	 	 	"trans": "Medicina",
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "¿Te duele la cabeza? ¡Usa Pain Away™ para aliviar tu dolor!",
+ 	 	 	 	"trans": "¿Te duele la cabeza? ¡Usa la Medicina Pain Away™ para aliviar tu dolor!",
  	 	 	 	"eng": "Do you have headache? Use Pain Away™ to relieve your pain!"
  	 	 	}
  	 	},
@@ -639,11 +639,11 @@
  	 	},
  	 	"healingArea1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Pain Away Spray",
+ 	 	 	 	"trans": "Medicina Spray",
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "¿Tus amigos y tú tienen dolor de cabeza? ¡Usa Pain Away Spray™ para aliviar su dolor!",
+ 	 	 	 	"trans": "¿Tus amigos y tú tienen dolor de cabeza? ¡Usa la Medicina Pain Away Spray™ para aliviar su dolor!",
  	 	 	 	"eng": "Do you and your friends both have headaches? Use Pain Away Spray™ to relief your pain!"
  	 	 	}
  	 	},
